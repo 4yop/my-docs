@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,ae as n}from"./chunks/framework.CmsL9_ih.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"LINUX.md","filePath":"LINUX.md"}'),i={name:"LINUX.md"};function l(o,a,s,u,d,h){return r(),t("div",null,[...a[0]||(a[0]=[n("",7)])])}const p=e(i,[["render",l]]);export{_ as __pageData,p as default};

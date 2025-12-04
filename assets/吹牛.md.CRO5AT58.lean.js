@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as t,ae as o}from"./chunks/framework.D7v8Eny7.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"吹牛.md","filePath":"吹牛.md"}'),h={name:"吹牛.md"};function l(i,a,n,d,b,c){return t(),r("div",null,[...a[0]||(a[0]=[o("",40)])])}const q=e(h,[["render",l]]);export{u as __pageData,q as default};
