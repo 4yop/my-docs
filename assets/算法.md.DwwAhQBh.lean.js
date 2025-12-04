@@ -1,1 +1,0 @@
-import{_ as i,c as a,o as n,ae as h}from"./chunks/framework.CmsL9_ih.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"算法.md","filePath":"算法.md"}'),l={name:"算法.md"};function k(t,s,p,e,r,E){return n(),a("div",null,[...s[0]||(s[0]=[h("",16)])])}const g=i(l,[["render",k]]);export{y as __pageData,g as default};

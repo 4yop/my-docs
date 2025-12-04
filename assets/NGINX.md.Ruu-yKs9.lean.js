@@ -1,1 +1,0 @@
-import{_ as n,c as s,o as i,ae as e}from"./chunks/framework.CmsL9_ih.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"NGINX.md","filePath":"NGINX.md"}'),p={name:"NGINX.md"};function l(t,a,o,h,r,c){return i(),s("div",null,[...a[0]||(a[0]=[e("",40)])])}const g=n(p,[["render",l]]);export{d as __pageData,g as default};

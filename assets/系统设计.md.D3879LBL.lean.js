@@ -1,1 +1,0 @@
-import{_ as a,c as i,o as n,ae as l}from"./chunks/framework.CmsL9_ih.js";const E=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"系统设计.md","filePath":"系统设计.md"}'),h={name:"系统设计.md"};function p(e,s,t,k,r,d){return n(),i("div",null,[...s[0]||(s[0]=[l("",47)])])}const c=a(h,[["render",p]]);export{E as __pageData,c as default};

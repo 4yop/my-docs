@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r,ae as o}from"./chunks/framework.CmsL9_ih.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"分布式.md","filePath":"分布式.md"}'),i={name:"分布式.md"};function l(h,a,n,s,p,d){return r(),t("div",null,[...a[0]||(a[0]=[o("",43)])])}const b=e(i,[["render",l]]);export{u as __pageData,b as default};
