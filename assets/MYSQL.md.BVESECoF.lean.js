@@ -1,1 +1,0 @@
-import{_ as e,c as r,o,ae as i}from"./chunks/framework.BQlYxExx.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"MYSQL.md","filePath":"MYSQL.md"}'),l={name:"MYSQL.md"};function t(n,a,h,d,b,s){return o(),r("div",null,[...a[0]||(a[0]=[i("",132)])])}const u=e(l,[["render",t]]);export{p as __pageData,u as default};

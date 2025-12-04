@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as i,ae as d}from"./chunks/framework.BQlYxExx.js";const p=JSON.parse('{"title":"GIT","description":"","frontmatter":{},"headers":[],"relativePath":"GIT.md","filePath":"GIT.md"}'),c={name:"GIT.md"};function l(a,t,r,s,g,n){return i(),o("div",null,[...t[0]||(t[0]=[d("",45)])])}const k=e(c,[["render",l]]);export{p as __pageData,k as default};

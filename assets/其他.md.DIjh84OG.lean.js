@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as t,ae as o}from"./chunks/framework.BQlYxExx.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"其他.md","filePath":"其他.md"}'),i={name:"其他.md"};function h(l,a,n,d,s,c){return t(),r("div",null,[...a[0]||(a[0]=[o("",29)])])}const q=e(i,[["render",h]]);export{b as __pageData,q as default};

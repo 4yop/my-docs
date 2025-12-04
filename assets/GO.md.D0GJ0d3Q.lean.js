@@ -1,1 +1,0 @@
-import{_ as n,c as e,o as s,ae as o}from"./chunks/framework.BQlYxExx.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"GO.md","filePath":"GO.md"}'),l={name:"GO.md"};function t(i,a,c,p,r,h){return s(),e("div",null,[...a[0]||(a[0]=[o("",39)])])}const g=n(l,[["render",t]]);export{d as __pageData,g as default};
