@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r,ae as b}from"./chunks/framework.D7v8Eny7.js";const c=JSON.parse('{"title":"rabbitmq","description":"","frontmatter":{},"headers":[],"relativePath":"MQ.md","filePath":"MQ.md"}'),i={name:"MQ.md"};function o(l,a,d,h,q,k){return r(),e("div",null,[...a[0]||(a[0]=[b("",42)])])}const n=t(i,[["render",o]]);export{c as __pageData,n as default};

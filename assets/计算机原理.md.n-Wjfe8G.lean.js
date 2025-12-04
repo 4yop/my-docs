@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as r,ae as i}from"./chunks/framework.D7v8Eny7.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"计算机原理.md","filePath":"计算机原理.md"}'),t={name:"计算机原理.md"};function l(h,a,n,d,c,s){return r(),o("div",null,[...a[0]||(a[0]=[i("",40)])])}const q=e(t,[["render",l]]);export{b as __pageData,q as default};
